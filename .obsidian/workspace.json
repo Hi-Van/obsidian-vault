@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "e783cda96c1fced7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8402e3479aee277f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98808979c14db185",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a6353774b397c29",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd5848b0df3bf915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45b53d4b21aa62b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58d3e0f9697435c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15c09f060f68b63b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6895e95078eb457",
+    "type": "split",
+    "children": [
+      {
+        "id": "28a38c68e6712851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60eb405fc5378235",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0735c10efc23199b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82bbef26d3d1e8fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f244b92d8613cab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6caec52db174b3b1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "cmdr:Style Settings: Show style settings view": false,
+      "cmdr:Commander: Open Commander Settings": false
+    }
+  },
+  "active": "98808979c14db185",
+  "lastOpenFiles": [
+    "Codeforces/Questions/800 Rating/Sakurako's Exam.md",
+    "Codeforces/Questions/800 Rating",
+    "Codeforces/Questions/Untitled 1",
+    "Codeforces/Questions/Untitled",
+    "Codeforces/Questions",
+    "Codeforces",
+    "Codeforces Questions/800 Rating/Sakurako's Exam.md",
+    "Codeforces Questions/800 Rating",
+    "Codeforces Questions",
+    "Timeline.md",
+    "Excalidraw/Drawing 2024-08-27 18.04.55.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "2024-W28.md",
+    "2024-07-13.md",
+    "Excalidraw/Drawing 2024-07-13 23.31.18.excalidraw.md"
+  ]
+}
