@@ -1,4 +1,7 @@
 {
   "cssTheme": "AnuPpuccin",
-  "theme": "system"
+  "theme": "system",
+  "enabledCssSnippets": [
+    "round-img-border"
+  ]
 }
