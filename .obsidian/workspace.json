@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "3b7ddebdfc07e230",
+            "id": "560c2551c52286eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Scalability/Load Balancers & Caches.md",
+                "file": "System Design/Reliability/RAID Storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Load Balancers & Caches"
+              "title": "RAID Storage"
             }
           }
         ],
@@ -190,12 +190,21 @@
       "cmdr:Commander: Open Commander Settings": false
     }
   },
-  "active": "3b7ddebdfc07e230",
+  "active": "560c2551c52286eb",
   "lastOpenFiles": [
     "System Design/Scalability/Horizontal Scaling.md",
+    "System Design/Reliability/RAID Storage.md",
+    "System Design/Reliability",
     "System Design/Scalability/Load Balancers & Caches.md",
+    "System Design/Ramblings/The Microservice Architecture.md",
+    "System Design/Designing Data Intensive Applications - Notes",
     "System Design/System Design Resources.md",
+    "Designing Data Intensive Applications.md",
+    "ASSETS/Designing Data Intensive Applications.pdf",
+    "Excalidraw/Drawing 2024-11-26 19.18.11.excalidraw.md",
     "Excalidraw/Drawing 2024-11-25 19.54.06.excalidraw.md",
+    "Excalidraw/The Microservice Architecture 2024-11-26 20.02.43.excalidraw.md",
+    "System Design/Ramblings",
     "ASSETS/software-architecture.excalidrawlib",
     "software-architecture.excalidrawlib",
     "Untitled.md",
@@ -206,11 +215,7 @@
     "ASSETS",
     "Excalidraw",
     "System Design/Scalability",
-    "System Design",
     "Codeforces/Questions/800 Rating/Sakurako's Exam.md",
-    "Codeforces/Questions/800 Rating",
-    "Codeforces/Questions/Untitled 1",
-    "Codeforces/Questions/Untitled",
     "Codeforces Questions/800 Rating/Sakurako's Exam.md",
     "Timeline.md",
     "Excalidraw/Drawing 2024-08-27 18.04.55.excalidraw.md",
