@@ -10,4 +10,3 @@
 * [ACID vs. BASE Databases - Amazon Web Services](https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/)
 * [[Designing Data Intensive Applications.pdf|Designing Data Intensive Applications]]
 * [System Design Flight Club](https://github.com/systemdesignfightclub/SDFC)
-* 
