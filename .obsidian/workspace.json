@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Software Design Fundamentals/Availability Patterns/Availability Patterns.md",
+                "file": "System Design/Software Design Fundamentals/Availability Patterns/Availability in Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Availability Patterns"
+              "title": "Availability in Numbers"
             }
           }
         ]
@@ -178,16 +178,17 @@
   },
   "active": "1c2c504ba3622521",
   "lastOpenFiles": [
-    "System Design/Software Design Fundamentals/Availability Patterns/Availability in Numbers.md",
-    "System Design/Software Design Fundamentals/Availability Patterns/Replication.md",
     "System Design/Software Design Fundamentals/Availability Patterns/Fail-over.md",
-    "System Design/Software Design Fundamentals/Availability Patterns/Availability Patterns.md",
-    "System Design/Software Design Fundamentals/Consistency Patterns/Weak Consistency.md",
-    "System Design/Software Design Fundamentals/Availability Patterns",
+    "System Design/Software Design Fundamentals/Availability Patterns/Replication.md",
     "System Design/Software Design Fundamentals/Cap Theorem.md",
+    "System Design/Software Design Fundamentals/Consistency Patterns/Consistency Patterns.md",
+    "System Design/Software Design Fundamentals/Availability Patterns/Availability in Numbers.md",
+    "System Design/Software Design Fundamentals/Availability Patterns/Availability Patterns.md",
+    "ASSETS/Pasted image 20250203013516.png",
+    "System Design/Software Design Fundamentals/Consistency Patterns/Weak Consistency.md",
     "System Design/Software Design Fundamentals/Consistency Patterns/Strong Consistency.md",
     "System Design/Software Design Fundamentals/Consistency Patterns/Eventual Consistency.md",
-    "System Design/Software Design Fundamentals/Consistency Patterns/Consistency Patterns.md",
+    "System Design/Software Design Fundamentals/Availability Patterns",
     "System Design/Scalability/Load Balancers & Caches.md",
     "System Design/Scalability/Horizontal Scaling.md",
     "ASSETS/Pasted image 20250131122338.png",
@@ -221,7 +222,6 @@
     "Excalidraw/Drawing 2024-11-25 19.06.40.excalidraw.md",
     "Excalidraw/Drawing 2024-11-25 19.17.56.excalidraw.md",
     "Excalidraw/Horizontal Scaling 2024-11-25 19.12.46.excalidraw.md",
-    "Codeforces/Questions/800 Rating/Sakurako's Exam.md",
     "Untitled.canvas"
   ]
 }
